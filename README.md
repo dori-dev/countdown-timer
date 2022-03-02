@@ -1,2 +1,2 @@
-# countdown-timer
+# countdown timer
 Time left until Nowruz 1401!
