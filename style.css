@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "IRAN Sans";
+  src: url("IRANSansWeb.woff2") format("woff2");
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  justify-content: center;
+  background-image: url("./spring.jpg");
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "IRAN Sans", sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 5rem;
+  margin-top: 4rem;
+}
+
+.countdown-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.big-text {
+  font-size: 6rem;
+  line-height: 1;
+  margin: 3rem 2rem 0.5rem 1rem;
+}
+
+.countdown-el {
+  text-align: center;
+}
+
+.countdown-el span {
+  font-size: 2.3rem;
+}
