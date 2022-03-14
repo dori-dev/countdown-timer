@@ -14,4 +14,4 @@ Demo of Project: [dori-dev.github.io/countdown-timer](https://dori-dev.github.io
 
 Download Source Code: [Click Here](https://github.com/dori-dev/countdown-timer/archive/refs/heads/main.zip)
 
-My Github Acount: [Click Here](https://github.com/dori-dev/)
+My Github Account: [Click Here](https://github.com/dori-dev/)
